@@ -23,7 +23,7 @@ MultiDrive supports silent deployment across multiple machines using command-lin
 - Standard backup formats supported: RAW or ZIP (optimized Deflate algorithm)
 - 100% free. No ads, upgrade popups
 
-# CLI support
+## CLI support
 
 Examples:
 ```
