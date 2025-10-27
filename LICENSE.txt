@@ -1,0 +1,65 @@
+IMPORTANT-READ CAREFULLY: This End User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) later referred to as "YOU" and Atola Technology later referred to as "ATOLA" for the software product MultiDrive later referred to as "SOFTWARE". 
+
+By installing, copying, or otherwise using the SOFTWARE, YOU agree to be bound by the terms of this EULA. If YOU do not agree to the terms of this EULA, do not install or use the SOFTWARE. 
+
+1. GRANT OF LICENSE
+
+ATOLA grants YOU a free, non-exclusive, non-transferable license to use SOFTWARE for personal or commercial purposes. You may install and use SOFTWARE on any number of devices.
+
+2. INTELLECTUAL PROPERTY
+
+SOFTWARE and all related materials are the property of ATOLA and are protected by copyright and other intellectual property laws. 
+
+SOFTWARE free version may be freely distributed, if the distribution package is not modified. 
+
+3. LIMITATIONS	
+
+YOU may not:
+
+- modify, reverse engineer, decompile, or disassemble SOFTWARE
+- sell, re-sell, offer for sale, distribute, lease or loan SOFTWARE
+- remove or alter any copyright or trademark notices from SOFTWARE.
+
+YOU may use this SOFTWARE in compliance with all applicable laws and not for any unlawful purpose. Without limiting the foregoing, use, display or distribution of this SOFTWARE together with material that is pornographic, racist, vulgar, obscene, defamatory, libelous, abusive, promotes hatred, discrimination or prejudice based on religion, ethnicity, race, sexual orientation or age is strictly prohibited.
+
+4. PRIVACY
+
+This Notice is intended to inform YOU about the types of information ATOLA gathers and its usage when YOU utilize SOFTWARE.
+
+4.1 Automatically Collected Information
+
+ATOLA incorporated a User Experience (UX) Program into SOFTWARE to enhance our understanding of user needs and to improve our offerings.
+Joining this program is optional. 
+
+YOU can participate by selecting an option during the SOFTWARE installation and may withdraw at any time via SOFTWARE’s Preferences dialog  turning off "Join the User Experience Program” switch.
+
+If YOU opt to participate, SOFTWARE will collect and send anonymous data from YOUr environment to ATOLA's analytics system. This data might include:
+- The tally of SOFTWARE installations or removals.
+- The usage frequency of various SOFTWARE features.
+
+Without enrollment in the UX Program, ATOLA does not collect any data.
+
+4.2 Usage of Collected Information
+
+The information gathered will serve the following objectives:
+- To enhance SOFTWARE performance.
+- For internal R&D to refine the SOFTWARE.
+- To conduct statistical analyses on SOFTWARE deployment, including trend scrutiny and comparative assessments within our collective installation base.
+
+To safeguard this information, ATOLA enforces suitable administrative, technical, physical, and procedural safeguards in line with global information security standards.
+
+5. SUGGESTIONS
+
+Any feedback, comments, ideas, improvements or suggestions provided by YOU to ATOLA with respect to the SOFTWARE shall remain the sole and exclusive property of ATOLA.
+
+6. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. ATOLA SHALL NOT BE LIABLE FOR ANY DAMAGES, INCLUDING BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE
+
+7. GOVERNING LAW 
+
+This Agreement will be governed by the laws of the Province of British Columbia and the federal laws of Canada applicable therein, excluding (i) that body of law known as conflicts of law and (ii) the United Nations Convention on Contracts for the Sale of Goods, and each party hereto submits to the exclusive jurisdiction of the courts of that Province. This Agreement is the complete and exclusive statement of the agreement between YOU and ATOLA relating to SOFTWARE.
+
+8. RESERVATION
+
+ATOLA reserves the right to update or modify this EULA at any time, at our discretion. Any rights not expressly granted to YOU in this EULA are reserved by ATOLA.
