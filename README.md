@@ -1,5 +1,7 @@
 # MultiDrive
-Free disk backup, cloning, and wiping software for Windows.
+MultiDrive is a **free Windows tool** for **disk cloning**, **wiping**, and **backups** from Atola Technology. 
+
+It is made with the same high engineering quality as Atola's forensic imagers, so it can safely process multiple drives in parallel. 
 
 ## Download
 
@@ -15,13 +17,15 @@ MultiDrive supports silent deployment across multiple machines using command-lin
 
 ## Features
 
-- Simple and attractive UI app
+- Simple and attractive UI
 - CLI app for workflow automation
+- Full-disk or partial cloning, erasing, backup, and restore
 - Handles bad sectors (drive read errors) and loose cable connections
-- Ability to process multiple drives in parallel
+- Ability to process multiple drives simultaneously
 - Pause/resume a task at any time
 - Standard backup formats supported: RAW or ZIP (optimized Deflate algorithm)
-- 100% free. No ads, upgrade popups
+- Hash calculation
+- 100% free. No ads or upgrade popups
 
 ## CLI support
 
@@ -34,3 +38,21 @@ mdcli erase d3 --pattern FF      # Erases the 3rd drive with 0xFF pattern
 mdcli clone d1 d3                # Clones the 1st (boot) drive to the 3rd drive
 ```
 Instead of Short IDs (d1, d2, d3),  one can use classic Windows System IDs `(SCSI\DISK&VEN_NVME&PROD_SAMSUNG_SSD_970\4&5BC748F&0&020000)`
+
+
+## Product Comparison
+| Feature | MultiDrive | Commercial Tools | Free Alternatives |
+|--------|------------|--------------------|------------------|
+| Free to use | ✅ Yes | ❌ No | ✅ Yes |
+| Parallel tasks | ✅ | ⚠️ Limited | ❌   |
+| CLI support | ✅ | ✅ | ⚠️ Extra cost | ❌   |
+| Drive cloning | ✅ | ✅ | ⚠️ Often basic |
+| Secure wiping | ✅ | ⚠️ Extra cost | ⚠️ Varies |
+| Fast backup to standard ZIP format | ✅ | ❌  | ❌  |
+| Modern Windows UI | ✅ | ⚠️ Varies | ❌ Outdated |
+
+## Support the Project
+
+If MultiDrive helps you, please star the repo and share it with your teammates or friends.
+
+<p align="center"> ⭐⭐⭐ <b>Your star helps more people discover a free alternative to heavy commercial tools.</b> ⭐⭐⭐ </p>
