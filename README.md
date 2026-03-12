@@ -15,6 +15,12 @@ Get the latest version from [Releases](https://github.com/atola-technology/multi
 MultiDrive supports silent deployment across multiple machines using command-line parameters
 `MultiDriveSetup.exe /s /d=c:\MyFolder`
 
+## Windows PE bootable image
+
+Use MultiDrive within a bootable WinPE image to clone your active Windows boot drive. 
+
+Download the boot image and follow the guide: [Win PE image](https://multidrive.io/winpe)
+
 ## Features
 
 - Simple and attractive UI
