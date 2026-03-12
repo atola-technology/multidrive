@@ -1,5 +1,22 @@
 # Changelog
 
+## Version 1.3
+**Released March 11, 2026**  
+
+### Improvements
+- New WinPE image with MultiDrive pre-installed
+- Erase: New option - Format drive after erasing
+- Better recovery from write errors on target drives during Clone and Erase tasks
+- Lightweight date representation: Oct 31 instead of 25-10-31
+- Improved recognition and display of EFI and Recovery volumes
+- Added a warning when backing up a BitLocker volume to ZIP format
+
+### Bug Fixes
+- CLI: Crash when redirecting mdcli output to a log file
+- Backup: The last chunk of a split zip/raw file was created with an incorrect size
+
+---
+
 ## Version 1.2
 **Released October 9, 2025**  
 
