@@ -16,6 +16,8 @@
 ### Bug Fixes
 - Disk range selector in Options: Incorrect minimum value of the End handle when adjusting via the slider
 
+---
+
 ## Version 1.3
 **Released March 11, 2026**  
 
