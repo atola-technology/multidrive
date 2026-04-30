@@ -1,5 +1,21 @@
 # Changelog
 
+## Version 1.4
+**Released: April 29, 2026**
+
+### New Features
+- Backup / Restore: New ZST (ZStandard) compression format, which is 4-5x faster than ZIP format
+- New option "Show serial numbers of drives" in Preferences: Allows you to distinguish drives of the same model.
+
+### Improvements
+- Backup / Restore: Support for password-protected network folders
+- Clone / Restore: Clearer UX when the source drive is larger than the target
+- CLI: Improved UX when writing to the target during Clone, Erase, and Restore
+- More explicit indication of task completion
+
+### Bug Fixes
+- Disk range selector in Options: Incorrect minimum value of the End handle when adjusting via the slider
+
 ## Version 1.3
 **Released March 11, 2026**  
 
