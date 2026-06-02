@@ -23,7 +23,7 @@ mdcli backup [source] [target] <OPTIONS>
 | `-c, --byte_count <N>` | Number of bytes to back up (e.g. `10G`) |
 | `-s, --source` / `-t, --target` | Alternative way to pass source/target |
 | `-u,  --share-user <SHARE_USER>` | Username for network share authentication |
-| `-t,  --share-pass <SHARE_PASS>` | Password for network share authentication |
+| `-w,  --share-pass <SHARE_PASS>` | Password for network share authentication |
 
 ## Scripts
 
@@ -38,7 +38,7 @@ mdcli backup [source] [target] <OPTIONS>
 # Back up Drive #1 to a compressed ZIP
 mdcli backup d1 E:\myfolder\backup.zip
 
-# Back up Drive #2 with SHA256 integrity verification, unattended
+# Back up Drive #2 with SHA256 hash
 mdcli backup d2 "E:\Backups\system.zip" --hash=SHA256 -y
 
 # Back up 10 GB from Drive #1 starting at 1 MB, split into 2 GB ZIP segments

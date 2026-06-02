@@ -1,12 +1,11 @@
 # MultiDrive CLI examples
 
 Ready-to-run automation scripts for **MultiDrive** — a free disk management tool for
-Windows 10 and 11 that can **back up, clone, restore, and securely erase** drives from
+Windows 10 and 11 that can **back up, clone, restore, and erase** drives from
 the command line via `mdcli.exe`.
 
-These examples are written for system administrators and power users who want to
-automate drive operations with **PowerShell** and **batch** scripts — for scheduled
-backups, fleet-wide secure erase, drive upgrades, and unattended workflows.
+These examples are for system administrators and power users. They want to automate drive operations with PowerShell 
+and batch scripts. This can be for scheduled backups, fleet-wide secure erase, drive upgrades and unattended workflows.
 
 > Full CLI reference and screenshots: <https://multidrive.io/backup-drive-command-prompt>
 
@@ -14,10 +13,10 @@ backups, fleet-wide secure erase, drive upgrades, and unattended workflows.
 
 | Folder | What it does |
 |--------|--------------|
-| [`backup/`](./backup) | Back up a whole drive or a partition to RAW/ZIP/ZST, with integrity hashing and split segments. |
+| [`backup/`](./backup) | Back up a whole drive or a partition to RAW/ZIP/ZST, with hashing enabled. |
 | [`clone/`](./clone) | Clone one drive to another bit-by-bit — drive upgrades and bootable backups. |
-| [`restore/`](./restore) | Restore a drive (or part of it) from a RAW/ZIP backup. *(draft — see folder note)* |
-| [`erase/`](./erase) | Securely wipe one drive or an entire fleet in parallel. |
+| [`restore/`](./restore) | Restore a drive (or part of it) from a RAW/ZIP/ZST backup. |
+| [`erase/`](./erase) | Erase a drive or an entire fleet in parallel. |
 
 ## Install MultiDrive
 
