@@ -26,10 +26,10 @@ Download the boot image and follow the guide: [Win PE image](https://multidrive.
 - Simple and attractive UI
 - CLI app for workflow automation
 - Full-disk or partial cloning, erasing, backup, and restore
-- Handles bad sectors (drive read errors) and loose cable connections
 - Ability to process multiple drives simultaneously
 - Pause/resume a task at any time
-- Standard backup formats supported: RAW or ZIP (optimized Deflate algorithm)
+- Standard backup formats supported: RAW, ZIP (optimized Deflate algorithm), ZST (ZStandard algorithm)
+- Handles bad sectors (drive read errors) and loose cable connections
 - Hash calculation
 - 100% free. No ads or upgrade popups
 
@@ -45,6 +45,12 @@ mdcli clone d1 d3                # Clones the 1st (boot) drive to the 3rd drive
 ```
 Instead of Short IDs (d1, d2, d3),  one can use classic Windows System IDs `(SCSI\DISK&VEN_NVME&PROD_SAMSUNG_SSD_970\4&5BC748F&0&020000)`
 
+## CLI automation examples
+
+➡️ See [`examples/`](./examples) - PowerShell and batch scripts for automating your backup, clone, restore, and erase disk processes.
+
+Full CLI reference: https://multidrive.io/backup-drive-command-prompt
+```
 
 ## Product Comparison
 | Feature | MultiDrive | Commercial Tools | Free Alternatives |
