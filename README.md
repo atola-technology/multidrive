@@ -50,7 +50,6 @@ Instead of Short IDs (d1, d2, d3),  one can use classic Windows System IDs `(SCS
 ➡️ See [`examples/`](./examples) - PowerShell and batch scripts for automating your backup, clone, restore, and erase disk processes.
 
 Full CLI reference: https://multidrive.io/backup-drive-command-prompt
-```
 
 ## Product Comparison
 | Feature | MultiDrive | Commercial Tools | Free Alternatives |
