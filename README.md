@@ -28,7 +28,7 @@ Download the boot image and follow the guide: [Win PE image](https://multidrive.
 - Full-disk or partial cloning, erasing, backup, and restore
 - Ability to process multiple drives simultaneously
 - Pause/resume a task at any time
-- Standard backup formats supported: RAW, ZIP (optimized Deflate algorithm), ZST (ZStandard algorithm)
+- Standard backup formats supported: RAW, ZIP (optimized Deflate algorithm), ZSTD (ZStandard algorithm)
 - Handles bad sectors (drive read errors) and loose cable connections
 - Hash calculation
 - 100% free. No ads or upgrade popups
